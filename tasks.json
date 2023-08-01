@@ -1,0 +1,22 @@
+{
+    "tasks": [
+        {
+            "task": "Decide the date of travel",
+            "taskId": 1,
+            "description": "Need to decide a date for the upcoming travel",
+            "flag": false
+        },
+        {
+            "task": "Book tickets for flight",
+            "taskId": 2,
+            "description": "Need to book the tickets for the upcoming travel",
+            "flag": false
+        },
+        {
+            "task": "Book the hotels",
+            "taskId": 3,
+            "description": "Book the accommodation for the stay",
+            "flag": false
+        }
+    ]
+}
